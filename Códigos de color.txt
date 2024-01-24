@@ -1,0 +1,20 @@
+Alfabetos
+A,B,C,D,E...
+0,1,2,3,4,5,6,7,8,9
+0,1
+Hexadecimal
+0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+
+_ _ _ _ _ _
+r   g   b
+
+#000000   Negro
+#FFFFFF   Blanco
+#FF0000	  Rojo
+
+0=menor
+255=máximo
+
+rgb(0,0,0)	Negro
+rgb(255,255,255)Blanco
+rgb(255,0,0)	Rojo
